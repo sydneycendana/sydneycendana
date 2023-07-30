@@ -10,20 +10,14 @@
   <li>🔭 I currently work for an IT Services startup where I gained experience with Frontend Development</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/sydneycendana/">Linkedin</a> or sydneycendana@gmail.com</li>
 </ul>
+  
 ---
 
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 
-<style>
-  /* Style to modify the fill color of SVG icons for dark background */
-  .white-icon {
-    fill: #ffffff;
-  }
-</style>
-
 <div>
   <!-- Frontend Development -->
-  <h4>Frontend Development:</h4>
+  <h5>Frontend Development:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
@@ -33,11 +27,11 @@
   </p>
   
   <!-- Backend Development -->
-  <h4>Backend Development:</h4>
+  <h5>Backend Development:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40" class="white-icon"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40" class="white-icon"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresQL" alt="PostgresQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
@@ -45,18 +39,25 @@
   </p>
   
   <!-- Cloud Services -->
-  <h4>Cloud Services:</h4>
+  <h5>Cloud Services:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
   </p>
   
   <!-- Version Control and Package Management -->
-  <h4>Version Control and Package Management:</h4>
+  <h5>Version Control and Package Management:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>
   </p>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sydneycendana&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!--
