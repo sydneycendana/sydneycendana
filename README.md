@@ -4,18 +4,16 @@
 
 ---
 
-<h3> :woman_technologist: About Me :<h3>
-<p>
-  <span>🌱 I recently just completed a year-long bootcamp with App Academy, where I studied Full Stack Development</span><br>
-  <span>🔭 I currently work for an IT Services startup where I gained experience with Frontend Development</span><br>
-  <span>📫 How to reach me: <a href="https://www.linkedin.com/in/sydneycendana/">Linkedin</a> or sydneycendana@gmail.com</span>
-</p>
+## :woman_technologist: About Me :
+
+- 🌱 I recently just completed a year-long bootcamp with App Academy, where I studied Full Stack Development
+- 🔭 I currently work for an IT Services startup where I gained experience with Frontend Development
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sydneycendana/">Linkedin</a> or sydneycendana@gmail.com
   
 ---
 
-<h3>:hammer_and_wrench: Languages and Tools :</h3>
+##:hammer_and_wrench: Languages and Tools :
 
-<div>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
@@ -39,27 +37,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>
   </p>
-</div>
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sydneycendana&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-<!--
-**sydneycendana/sydneycendana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
