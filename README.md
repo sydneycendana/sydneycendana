@@ -5,11 +5,9 @@
 ---
 
 <h3> :woman_technologist: About Me :
-<ul>
-  <li>🌱 I recently just completed a year-long bootcamp with App Academy, where I studied Full Stack Development</li>
-  <li>🔭 I currently work for an IT Services startup where I gained experience with Frontend Development</li>
-  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/sydneycendana/">Linkedin</a> or sydneycendana@gmail.com</li>
-</ul>
+> 🌱 I recently just completed a year-long bootcamp with App Academy, where I studied Full Stack Development</li>
+> 🔭 I currently work for an IT Services startup where I gained experience with Frontend Development</li>
+> 📫 How to reach me: <a href="https://www.linkedin.com/in/sydneycendana/">Linkedin</a> or sydneycendana@gmail.com</li>
   
 ---
 
