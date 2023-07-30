@@ -4,7 +4,7 @@
 
 ---
 
-<h3> :woman_technologist: About Me :
+<h3> :woman_technologist: About Me :<h3>
 <p>
   <span>🌱 I recently just completed a year-long bootcamp with App Academy, where I studied Full Stack Development</span><br>
   <span>🔭 I currently work for an IT Services startup where I gained experience with Frontend Development</span><br>
