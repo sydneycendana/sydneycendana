@@ -2,6 +2,13 @@
   <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="500"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+- 🌱 I recently just completed a year long bootcamp with App Academy, where I studied Full Stack Development
+- 🔭 I currently work for an IT Services startup where I gained experience with Frontend Development
+- 📫 How to reach me: [![Linkedin](https://www.linkedin.com/in/sydneycendana/) or sydneycendana@gmail.com
+
 <!--
 **sydneycendana/sydneycendana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
