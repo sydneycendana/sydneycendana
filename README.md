@@ -6,9 +6,9 @@
 
 <h3> :woman_technologist: About Me :<h3>
 <p>
-  <span style="font-size: inherit; font-weight: normal;">🌱 I recently just completed a year-long bootcamp with App Academy, where I studied Full Stack Development</span><br>
-  <span style="font-size: inherit; font-weight: normal;">🔭 I currently work for an IT Services startup where I gained experience with Frontend Development</span><br>
-  <span style="font-size: inherit; font-weight: normal;">📫 How to reach me: <a href="https://www.linkedin.com/in/sydneycendana/">Linkedin</a> or sydneycendana@gmail.com</span>
+  <span>🌱 I recently just completed a year-long bootcamp with App Academy, where I studied Full Stack Development</span><br>
+  <span>🔭 I currently work for an IT Services startup where I gained experience with Frontend Development</span><br>
+  <span>📫 How to reach me: <a href="https://www.linkedin.com/in/sydneycendana/">Linkedin</a> or sydneycendana@gmail.com</span>
 </p>
   
 ---
@@ -16,8 +16,6 @@
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 
 <div>
-  <!-- Frontend Development -->
-  <h5>Frontend Development:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
@@ -25,9 +23,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   </p>
-  
-  <!-- Backend Development -->
-  <h5>Backend Development:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
@@ -37,15 +32,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
   </p>
-  
-  <!-- Cloud Services -->
-  <h5>Cloud Services:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
   </p>
-  
-  <!-- Version Control and Package Management -->
-  <h5>Version Control and Package Management:</h4>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>
